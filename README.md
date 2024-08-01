@@ -1,4 +1,6 @@
-### Hi there 👋
+
+
+## 📖 Education 📖
 
 
 ## 🔥 Project Lists 🔥
@@ -12,10 +14,9 @@
 | Pleural Effusion | Medical(Radiology) 3D segmentation | Seoul National University Hospital, Korea | Jan. 2024 ~  | e |
 | Femur Second Fracture | Medical(Radiology) 3D segmentation | Seoul National University Hospital, Korea | Jan. 2024 ~ | e |
 | Colonoscopy | Medical(Radiology) video classification,report generate | Seoul National University Hospital, Korea | Jan. 2024 ~ | e |
-## Awards
+## :Awards
 - 🤔... 비밀
 
-- 🔥
 <!--
 **jjunstone7/jjunstone7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
