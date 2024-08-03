@@ -16,7 +16,7 @@ B.S stat
 | Colonoscopy | Medical(Gastroenterology) Video Analysis,report generate | Seoul National University Hospital, Korea | Jun. 2024 ~ | Added later |
 | Cataract | Medical(Ophthalmology) Video Analysis | Seoul National University Hospital, Korea | Aug. 2024 ~ | Added later |
 
-## :Awards
+## 🏆 Awards 🏆
 - 🤔... 비밀
 
 <!--
