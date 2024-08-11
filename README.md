@@ -1,4 +1,4 @@
-
+## In Repair
 
 ## 📖 Education 📖
 B.S stat
@@ -19,6 +19,7 @@ B.S stat
 ## 🏆 Awards 🏆
 - 🤔... 비밀
 
+## ☎️ Contact Me ☎️
 <!--
 
 [Github_Link](https://example.com/colonoscopy-project)
