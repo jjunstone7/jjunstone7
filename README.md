@@ -1,44 +1,48 @@
 ## In Repair
 
 ## 📖 Education 📖
-B.S stat
+**Undergraduate in Applied Statistics**  *Dankook University*  
+*2019.03 ~ 2025.02*
+
+**Undergraduate Intern**  *Seoul National University Hospital*  
+*March 2024 - Present*  
 
 ## 🔥 Project Lists 🔥
-| Project | skills | Organizer | Period | Link |
-|---------|----------------|-----------|--------|----|
-| Air pollution forecast | Time Series | Ai Factory, Korea | Apr. 2023 - May. 2023 | Added later |
-| Prediction of underground pipe leaks| Signal Processing | Fire safety big data platform, Korea | Nov. 2023 - Nov. 2023 | Added later |
-| Prediction of alveolar nerve damage after wisdom tooth extraction| Classification | Ai Connect, Korea | Nov. 2023 - Dec. 2023 | Added later |
-| DeepFake applied video | Video Classification | Ministry of Defense, Ministry of Science and ICT, Korea | Nov. 2023 - Dec. 2023 | Added later |
-| Prediction of melanoma recurrence based on pathological | Medical(pathology) MIL | Seoul National University Hospital, Korea | Jan. 2024 - Jan. 2024 | Added later |
-| Pleural Effusion | Medical(Radiology) 3D segmentation | Seoul National University Hospital, Korea | Apr. 2024 ~  | Added later |
-| Femur Second Fracture | Medical(Radiology) 3D segmentation | Seoul National University Hospital, Korea | May. 2024 ~ | Added later |
-| Colonoscopy | Medical(Gastroenterology) Video Analysis,report generation | Seoul National University Hospital, Korea | Jun. 2024 ~ | Added later |
-| Cataract Surgery Video | Medical(Ophthalmology) Video Analysis | Seoul National University Hospital, Korea | Aug. 2024 ~ | Added later |
+| **Project**                                           | **Skills**                                  | **Organizer**                                            | **Period**              | **Link**           |
+|-------------------------------------------------------|---------------------------------------------|----------------------------------------------------------|-------------------------|--------------------|
+| **Air Pollution Forecast** ![Completed](https://img.shields.io/badge/Status-Completed-brightgreen) | Time Series Analysis, Data Visualization    | AI Factory, Korea                                        | Apr. 2023 - May. 2023    | [Project Link](#)  |
+| **Prediction of Underground Pipe Leaks** ![Completed](https://img.shields.io/badge/Status-Completed-brightgreen) | Signal Processing, Machine Learning         | Fire Safety Big Data Platform, Korea                     | Nov. 2023                | [Project Link](#)  |
+| **Alveolar Nerve Damage Prediction** ![Completed](https://img.shields.io/badge/Status-Completed-brightgreen) | Classification, Medical Data Analysis       | AI Connect, Korea                                        | Nov. 2023 - Dec. 2023    | [Project Link](#)  |
+| **DeepFake Video Detection** ![Completed](https://img.shields.io/badge/Status-Completed-brightgreen) | Video Classification, Deep Learning         | Ministry of Defense & Ministry of Science and ICT, Korea | Nov. 2023 - Dec. 2023    | [Project Link](#)  |
+| **Melanoma Recurrence Prediction** ![Completed](https://img.shields.io/badge/Status-Completed-brightgreen) | Medical Pathology, MIL                      | Seoul National University Hospital, Korea                | Jan. 2024                | [Project Link](#)  |
+| **Pleural Effusion 3D Segmentation** ![In Progress](https://img.shields.io/badge/Status-In%20Progress-yellow) | Medical Radiology, 3D Image Segmentation    | Seoul National University Hospital, Korea                | Apr. 2024 - Present      | [Project Link](#)  |
+| **Femur Second Fracture 3D Segmentation** ![In Progress](https://img.shields.io/badge/Status-In%20Progress-yellow) | Medical Radiology, 3D Image Segmentation    | Seoul National University Hospital, Korea                | May. 2024 - Present      | [Project Link](#)  |
+| **Colonoscopy Video Analysis & Report Generation** ![In Progress](https://img.shields.io/badge/Status-In%20Progress-yellow) | Medical Gastroenterology, Video Analytics   | Seoul National University Hospital, Korea                | Jun. 2024 - Present      | [Project Link](#)  |
+| **LLM** ![In Progress](https://img.shields.io/badge/Status-In%20Progress-yellow) | LLM, KD, Prompt   | BOAZ                | Jun. 2024 - Present      | [Project Link](#)  |
+| **Cataract Surgery Video Analysis** ![In Progress](https://img.shields.io/badge/Status-In%20Progress-yellow) | Medical Ophthalmology, Video Analytics      | Seoul National University Hospital, Korea                | Aug. 2024 - Present      | [Project Link](#)  |
+
+
+## 🔥 Project Lists 🔥
+| **Project**                                           | **Skills**                                  | **Organizer**                                            | **Period**              | **Link**           |
+|-------------------------------------------------------|---------------------------------------------|----------------------------------------------------------|-------------------------|--------------------|
+| **Air Pollution Forecast**                            | Time Series Analysis                        | AI Factory, Korea                                        | Apr. 2023 - May. 2023    | [Project Link](#)  |
+| **Prediction of Underground Pipe Leaks**              | Signal Processing, Anomaly Detection        | Fire Safety Big Data Platform, Korea                     | Nov. 2023                | [Project Link](#)  |
+| **Alveolar Nerve Damage Prediction**                  | Classification, Medical Data Analysis       | AI Connect, Korea                                        | Nov. 2023 - Dec. 2023    | [Project Link](#)  |
+| **DeepFake Video Detection**                          | Video Classification                        | Ministry of Defense & Ministry of Science and ICT, Korea | Nov. 2023 - Dec. 2023    | [Project Link](#)  |
+| **Melanoma Recurrence Prediction**                    | Medical Pathology, MIL                      | Seoul National University Hospital, Korea                | Jan. 2024 - Feb. 2024    | [Project Link](#https://github.com/jjunstone7/Medical-Image-AI-Challenge-2023-Pathology-data)  |
+| **Pleural Effusion 3D Segmentation & Classification** | Medical Radiology, 3D Image Segmentation    | Seoul National University Hospital, Korea                | Apr. 2024 - Present      | [Project Link](#)  |
+| **Femur Second Fracture 3D Segmentation**             | Medical Radiology, 3D Image Segmentation    | Seoul National University Hospital, Korea                | May. 2024 - Present      | [Project Link](#)  |
+| **Colonoscopy Video Analysis & Report Generation**    | Medical Gastroenterology, Video Analytics   | Seoul National University Hospital, Korea                | Jun. 2024 - Present      | [Project Link](#)  |
+| **Cataract Surgery Video Analysis**                   | Medical Ophthalmology, Video Analytics      | Seoul National University Hospital, Korea                | Aug. 2024 - Present      | [Project Link](#)  |
 
 ## 🏆 Awards 🏆
 - 🤔... 비밀
 
-## ☎️ Contact Me ☎️
-<!--
+## 📬 Contact Me
+- **Email:** [jjunseok777@gmail.com](mailto:jjunseok777@gmail.com)
+- **LinkedIn:** [LinkedIn Profile](#)
+- **GitHub:** [GitHub Profile](#)
 
 [Github_Link](https://example.com/colonoscopy-project)
 **jjunstone7/jjunstone7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-Here is an example of using emojis in GitHub Markdown:
-
-- :smile: This project makes me happy!
-- :computer: Working on coding projects.
-- :bulb: Got a new idea for a project!
-- :rocket: Ready to launch the new version!
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
