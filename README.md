@@ -21,20 +21,6 @@
 | **LLM** ![In Progress](https://img.shields.io/badge/Status-In%20Progress-yellow) | LLM, KD, Prompt   | BOAZ                | Jun. 2024 - Present      | [Project Link](#)  |
 | **Cataract Surgery Video Analysis** ![In Progress](https://img.shields.io/badge/Status-In%20Progress-yellow) | Medical Ophthalmology, Video Analytics      | Seoul National University Hospital, Korea                | Aug. 2024 - Present      | [Project Link](#)  |
 
-
-## 🔥 Project Lists 🔥
-| **Project**                                           | **Skills**                                  | **Organizer**                                            | **Period**              | **Link**           |
-|-------------------------------------------------------|---------------------------------------------|----------------------------------------------------------|-------------------------|--------------------|
-| **Air Pollution Forecast**                            | Time Series Analysis                        | AI Factory, Korea                                        | Apr. 2023 - May. 2023    | [Project Link](#)  |
-| **Prediction of Underground Pipe Leaks**              | Signal Processing, Anomaly Detection        | Fire Safety Big Data Platform, Korea                     | Nov. 2023                | [Project Link](#)  |
-| **Alveolar Nerve Damage Prediction**                  | Classification, Medical Data Analysis       | AI Connect, Korea                                        | Nov. 2023 - Dec. 2023    | [Project Link](#)  |
-| **DeepFake Video Detection**                          | Video Classification                        | Ministry of Defense & Ministry of Science and ICT, Korea | Nov. 2023 - Dec. 2023    | [Project Link](#)  |
-| **Melanoma Recurrence Prediction**                    | Medical Pathology, MIL                      | Seoul National University Hospital, Korea                | Jan. 2024 - Feb. 2024    | [Project Link](#https://github.com/jjunstone7/Medical-Image-AI-Challenge-2023-Pathology-data)  |
-| **Pleural Effusion 3D Segmentation & Classification** | Medical Radiology, 3D Image Segmentation    | Seoul National University Hospital, Korea                | Apr. 2024 - Present      | [Project Link](#)  |
-| **Femur Second Fracture 3D Segmentation**             | Medical Radiology, 3D Image Segmentation    | Seoul National University Hospital, Korea                | May. 2024 - Present      | [Project Link](#)  |
-| **Colonoscopy Video Analysis & Report Generation**    | Medical Gastroenterology, Video Analytics   | Seoul National University Hospital, Korea                | Jun. 2024 - Present      | [Project Link](#)  |
-| **Cataract Surgery Video Analysis**                   | Medical Ophthalmology, Video Analytics      | Seoul National University Hospital, Korea                | Aug. 2024 - Present      | [Project Link](#)  |
-
 ## 🏆 Awards 🏆
 - 🤔... 비밀
 
