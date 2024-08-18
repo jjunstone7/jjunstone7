@@ -7,9 +7,9 @@
 **Undergraduate Intern**  *Seoul National University Hospital*  
 *March 2024 - Present*  
 
-## 📖 외부활동 📖
-** 교내학술동아리 **
-**BOAZ **
+## 🌱 외부활동 🌱
+**교내학술동아리**
+**BOAZ**
 
 ## 🔥 Project Lists 🔥
 | **Project**                                           | **Skills**                                  | **Organizer**                                            | **Period**              | **Link**           |
