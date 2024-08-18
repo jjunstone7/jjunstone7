@@ -1,11 +1,15 @@
-## In Repair
+## 열심히 공사중
 
-## 📖 Education 📖
+## 🎓 Education 🎓
 **Undergraduate in Applied Statistics**  *Dankook University*  
 *March 2019 ~ February 2025*
 
 **Undergraduate Intern**  *Seoul National University Hospital*  
 *March 2024 - Present*  
+
+## 📖 외부활동 📖
+** 교내학술동아리 **
+**BOAZ **
 
 ## 🔥 Project Lists 🔥
 | **Project**                                           | **Skills**                                  | **Organizer**                                            | **Period**              | **Link**           |
@@ -29,8 +33,4 @@
 ## 📬 Contact Me 📬
 - **Email:** [jjunseok777@gmail.com](mailto:jjunseok777@gmail.com)
 - **LinkedIn:** [LinkedIn Profile](#)
-- **GitHub:** [GitHub Profile](#)
-
-[Github_Link](https://example.com/colonoscopy-project)
-**jjunstone7/jjunstone7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
