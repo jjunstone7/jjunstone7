@@ -23,7 +23,7 @@
 | **Pleural Effusion 3D Segmentation & Classification** ![In Progress](https://img.shields.io/badge/Status-In%20Progress-yellow) | Medical Radiology, 3D Image Segmentation    | Seoul National University Hospital, Korea                | Apr. 2024 - Present      | [Project Link](#)  |
 | **Femur Second Fracture 3D Segmentation** ![In Progress](https://img.shields.io/badge/Status-In%20Progress-yellow) | Medical Radiology, 3D Image Segmentation    | Seoul National University Hospital, Korea                | May. 2024 - Present      | [Project Link](#)  |
 | **Colonoscopy Video Analysis & Report Generation** ![In Progress](https://img.shields.io/badge/Status-In%20Progress-yellow) | Medical Gastroenterology, Video Analytics   | Seoul National University Hospital, Korea                | Jun. 2024 - Present      | [Project Link](#)  |
-| **sLLM Fine-Tuning ** ![In Progress](https://img.shields.io/badge/Status-In%20Progress-yellow) | LLM, KD, Prompt   | BOAZ                | Jun. 2024 - Present      | [Project Link](#)  |
+| **sLLM Fine-Tuning** ![In Progress](https://img.shields.io/badge/Status-In%20Progress-yellow) | LLM, KD, Prompt   | BOAZ                | Jun. 2024 - Present      | [Project Link](#)  |
 | **DeepFake Audio Detection** ![Completed](https://img.shields.io/badge/Status-Completed-brightgreen) | Audio Classification, Deep Learning         | AI Security Research Center, Korea                        | Jul. 2024 - Jul. 2024      | [Project Link](#)  |
 | **Cataract Surgery Video Analysis** ![In Progress](https://img.shields.io/badge/Status-In%20Progress-yellow) | Medical Ophthalmology, Video Analytics      | Seoul National University Hospital, Korea                | Aug. 2024 - Present      | [Project Link](#)  |
 
