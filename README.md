@@ -2,7 +2,7 @@
 
 ## 📖 Education 📖
 **Undergraduate in Applied Statistics**  *Dankook University*  
-*2019.03 ~ 2025.02*
+*March 2019 ~ February 2025*
 
 **Undergraduate Intern**  *Seoul National University Hospital*  
 *March 2024 - Present*  
