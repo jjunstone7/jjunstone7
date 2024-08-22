@@ -33,6 +33,7 @@ mini_pj1,2
 | **sLLM Fine-Tuning** ![In Progress](https://img.shields.io/badge/Status-In%20Progress-yellow) | LLM, KD, Prompt   | BOAZ                | Jun. 2024 - Present      | [Project Link](#)  |
 | **DeepFake Audio Detection** ![Completed](https://img.shields.io/badge/Status-Completed-brightgreen) | Audio Classification, Deep Learning         | Ministry of Science and ICT, Korea                        | Jul. 2024 - Jul. 2024      | [Project Link](#)  |
 | **Cataract Surgery Video Analysis(Ophthalmology)** ![In Progress](https://img.shields.io/badge/Status-In%20Progress-yellow) | Video Analytics  | Seoul National University Hospital, Korea                | Aug. 2024 - Present      | [Project Link](#)  |
+| **Pancreatic Cyst Segmentation(Radiology)** ![In Progress](https://img.shields.io/badge/Status-In%20Progress-yellow) | 3D Segmentation  | Seoul National University Hospital, Korea                | Aug. 2024 - Present      | [Project Link](#)  |
 
 ## 🏆 Awards 🏆 
 - 🤔... 비밀
