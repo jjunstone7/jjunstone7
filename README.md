@@ -11,12 +11,13 @@
 **교내학술동아리**  *Dankook University*
 *January 2023 ~ January 2024*
 in areas such as statistical analysis, machine learning, R, Python, and categorical data analysis.
-
-**BOAZ** *Dankook University*
+:a
+**BOAZ** 🐘
 *January 2024 ~ January 2025*
 mini_pj1,2
 
-## 관심분야
+## 🎯 관심분야 🎯👨‍🔬
+Vision-Language-Model(VLM)
 
 ## 🔥 Project Lists 🔥
 | **Project**                                           | **Skills**                                  | **Organizer**                                            | **Period**              | **Link**           |
