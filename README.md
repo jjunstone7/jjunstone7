@@ -18,13 +18,10 @@ mini_pj1,2
 
 ## 🎯 관심분야 🎯👨‍🔬
 Vision-Language-Model(VLM)
+
 ## 🔥 Project Lists 🔥
 
----
-
-### **Projects**
-
-#### ✅ **Completed Projects**
+## ✅ **Completed Projects** ✅
 - **Air Pollution Forecast** ![Completed](https://img.shields.io/badge/Status-Completed-brightgreen)  
   **Skills**: Time Series Analysis  
   **Organizer**: AI Factory, Korea  
@@ -68,7 +65,7 @@ Vision-Language-Model(VLM)
   [Project Link](#)
 
 ---
-#### 🚧 **In Progress Projects**
+## 🚧 **In Progress Projects** 🚧
 - **Pleural Effusion 3D Segmentation & Classification (Radiology)** ![In Progress](https://img.shields.io/badge/Status-In%20Progress-yellow)  
   **Skills**: 3D Image Segmentation  
   **Organizer**: Seoul National University Hospital, Korea  
