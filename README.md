@@ -31,14 +31,13 @@ Vision-Language-Model(VLM)
 | **Melanoma Recurrence Prediction (Pathology)** ![Completed](https://img.shields.io/badge/Status-Completed-brightgreen) |  MIL (Multiple Instance Learning)   | Seoul National University Hospital, Korea  | Jan. 2024                | [Project Link](https://github.com/jjunstone7/Medical-Image-AI-Challenge-2023-Pathology-data)  |
 | **Forest Fire Detection** ![Completed](https://img.shields.io/badge/Status-Completed-brightgreen) |  Multispectral Image Segmentation  | Ministry of Science and ICT, AI Factory Korea | Mar. 2024 - Mar. 2024 | [Project Link](#)  |
 | **DeepFake Audio Detection** ![Completed](https://img.shields.io/badge/Status-Completed-brightgreen) | Generative Audio Detection | Ministry of Science and ICT, Korea                        | Jul. 2024 - Jul. 2024      | [Project Link](#)  |
-
+| **Femur Second Fracture 3D Segmentation (Radiology)** ![Completed](https://img.shields.io/badge/Status-In%20Progress-yellow) | 3D Image Segmentation  | Seoul National University Hospital, Korea | May. 2024 - Sep. 2024| [Project Link](#) |
 ---
 
 ### 🚧 **In Progress Projects** 🚧
 | **Project**                                           | **Skills**                                  | **Organizer**                                            | **Period**              | **Link**           |
 |-------------------------------------------------------|---------------------------------------------|----------------------------------------------------------|-------------------------|--------------------|
 | **Pleural Effusion 3D Segmentation & Classification (Radiology)** ![In Progress](https://img.shields.io/badge/Status-In%20Progress-yellow) | 3D Image Segmentation    | Seoul National University Hospital, Korea   | Apr. 2024 - Present      | [Project Link](#)  |
-| **Femur Second Fracture 3D Segmentation (Radiology)** ![In Progress](https://img.shields.io/badge/Status-In%20Progress-yellow) | 3D Image Segmentation    | Seoul National University Hospital, Korea | May. 2024 - Present      | [Project Link](#)  |
 | **Colonoscopy Video Analysis (Gastroenterology)** ![In Progress](https://img.shields.io/badge/Status-In%20Progress-yellow) | Video Analytics & Report Generation  | Seoul National University Hospital, Korea  | Jun. 2024 - Present      | [Project Link](#)  |
 | **sLLM Fine-Tuning** ![In Progress](https://img.shields.io/badge/Status-In%20Progress-yellow) | LLM, KD, Prompt   | BOAZ                | Jun. 2024 - Present      | [Project Link](#)  |
 | **Cataract Surgery Video Analysis (Ophthalmology)** ![In Progress](https://img.shields.io/badge/Status-In%20Progress-yellow) | Video Analytics  | Seoul National University Hospital, Korea                | Aug. 2024 - Present      | [Project Link](#)  |
