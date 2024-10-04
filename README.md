@@ -31,7 +31,7 @@ Vision-Language-Model(VLM)
 | **Melanoma Recurrence Prediction (Pathology)** ![Completed](https://img.shields.io/badge/Status-Completed-brightgreen) |  MIL (Multiple Instance Learning)   | Seoul National University Hospital, Korea  | Jan. 2024                | [Project Link](https://github.com/jjunstone7/Medical-Image-AI-Challenge-2023-Pathology-data)  |
 | **Forest Fire Detection** ![Completed](https://img.shields.io/badge/Status-Completed-brightgreen) |  Multispectral Image Segmentation  | Ministry of Science and ICT, AI Factory Korea | Mar. 2024 - Mar. 2024 | [Project Link](#)  |
 | **DeepFake Audio Detection** ![Completed](https://img.shields.io/badge/Status-Completed-brightgreen) | Generative Audio Detection | Ministry of Science and ICT, Korea                        | Jul. 2024 - Jul. 2024      | [Project Link](#)  |
-| **Femur Second Fracture 3D Segmentation (Radiology)** ![Completed](https://img.shields.io/badge/Status-In%20Progress-yellow) | 3D Image Segmentation  | Seoul National University Hospital, Korea | May. 2024 - Sep. 2024| [Project Link](#) |
+| **Femur Second Fracture 3D Segmentation (Radiology)** ![Completed](https://img.shields.io/badge/Status-Completed-brightgreen) | 3D Image Segmentation  | Seoul National University Hospital, Korea | May. 2024 - Sep. 2024| [Project Link](#) |
 ---
 
 ### 🚧 **In Progress Projects** 🚧
