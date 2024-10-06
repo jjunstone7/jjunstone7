@@ -7,15 +7,6 @@
 **Undergraduate Intern**  *Seoul National University Hospital*  
 *March 2024 - Present*  
 
-## 🌱 외부활동 🌱
-**교내학술동아리**  *Dankook University*
-*January 2023 ~ January 2024*
-in areas such as statistical analysis, machine learning, R, Python, and categorical data analysis.
-:a
-**BOAZ** 🐘
-*January 2024 ~ January 2025*
-mini_pj1,2
-
 ## 🎯 관심분야 🎯👨‍🔬
 Vision-Language-Model(VLM)
 
@@ -46,6 +37,15 @@ Vision-Language-Model(VLM)
 
 ## 🏆 Awards 🏆 
 - 🤔... 비밀
+
+## 🌱 외부활동 🌱
+**교내학술동아리**  *Dankook University*
+*January 2023 ~ January 2024*
+in areas such as statistical analysis, machine learning, R, Python, and categorical data analysis.
+:a
+**BOAZ** 🐘
+*January 2024 ~ January 2025*
+mini_pj1,2
 
 ## 📬 Contact Me 📬
 - **Email:** [jjunseok777@gmail.com](mailto:jjunseok777@gmail.com)
