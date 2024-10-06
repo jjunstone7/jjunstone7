@@ -15,7 +15,7 @@ Vision-Language-Model(VLM)
 ### ✅ **Completed Projects** ✅
 | **Project**                                           | **Skills**                                  | **Organizer**                                            | **Period**              | **Link**           |
 |-------------------------------------------------------|---------------------------------------------|----------------------------------------------------------|-------------------------|--------------------|
-| **Air Pollution Forecast** ![Completed](https://img.shields.io/badge/Status-Completed-brightgreen) | Time Series Analysis    | AI Factory, Korea              | Apr. 2023 - May. 2023    | [Project Link](#)  |
+| **Air Pollution Forecast** ![Completed](https://img.shields.io/badge/Status-Completed-brightgreen) | Time Series Analysis    | AI Factory, Korea              | Apr. 2023 - May. 2023    | None  |
 | **Prediction of Underground Pipe Leaks** ![Completed](https://img.shields.io/badge/Status-Completed-brightgreen) | Signal Processing     | Fire Safety Big Data Platform, Korea          | Nov. 2023 - Nov. 2023              | [Project Link](#)  |
 | **Alveolar Nerve Damage Prediction (Radiology)** ![Completed](https://img.shields.io/badge/Status-Completed-brightgreen) | Classification | AI Connect, Korea  | Nov. 2023 - Dec. 2023    | [Project Link](#)  |
 | **DeepFake Video Detection** ![Completed](https://img.shields.io/badge/Status-Completed-brightgreen) | Video Classification | Ministry of Defense & Ministry of Science and ICT, Korea | Nov. 2023 - Dec. 2023    | [Project Link](#)  |
