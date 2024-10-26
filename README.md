@@ -7,8 +7,8 @@
 **Undergraduate Intern**  *Seoul National University Hospital*  
 *March 2024 - Present*  
 
-## 🎯 관심분야 🎯👨‍🔬
-Vision-Language-Model(VLM)
+## 🎯 Research Interests 🎯👨‍🔬
+Deeply interested in Medical AI, currently working on projects involving CT and video-based data. My primary research focus is on Vision-Language Models (VLM)
 
 ## 🔥 Project Lists 🔥
 
