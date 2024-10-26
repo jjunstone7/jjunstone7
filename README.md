@@ -38,14 +38,17 @@ Vision-Language-Model(VLM)
 ## 🏆 Awards 🏆 
 - 🤔... 비밀
 
-## 🌱 외부활동 🌱
-**교내학술동아리**  *Dankook University*
-*January 2023 ~ January 2024*
-in areas such as statistical analysis, machine learning, R, Python, and categorical data analysis.
-:a
-**BOAZ** 🐘
-*January 2024 ~ January 2025*
-mini_pj1,2
+## 🌱 Extracurricular Activities 🌱
+
+**President,  SNR(Dankook University 교내학술동아리)**    
+*January 2023 ~ January 2024*  
+- Mentored undergraduate students in study groups covering topics in statistics, data analysis using R and Python, and categorical data analysis.
+
+**Member, BOAZ** 🐘  
+*January 2024 ~ January 2025*  
+- **Mini Project 1**: 도로영상 기반 이상탐지  
+- **Mini Project 2**: Chest-Xray Multimodal
+- **ADV**: Text2SQL LLM based recomendaion system
 
 ## 📬 Contact Me 📬
 - **Email:** [jjunseok777@gmail.com](mailto:jjunseok777@gmail.com)
