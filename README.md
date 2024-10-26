@@ -46,9 +46,9 @@ Vision-Language-Model(VLM)
 
 **Member, BOAZ** 🐘  
 *January 2024 ~ January 2025*  
-- **Mini Project 1**: 도로영상 기반 이상탐지  
+- **Mini Project 1**: Anomaly detection in road video data  
 - **Mini Project 2**: Chest-Xray Multimodal
-- **ADV**: Text2SQL LLM based recomendaion system
+- **ADV**:  Recommendation system using an LLM that converts text to SQL queries
 
 ## 📬 Contact Me 📬
 - **Email:** [jjunseok777@gmail.com](mailto:jjunseok777@gmail.com)
