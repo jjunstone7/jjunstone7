@@ -51,6 +51,6 @@ Deeply interested in Medical AI, currently working on projects involving CT and 
 - **ADV**:  Recommendation system using an LLM that converts text to SQL queries
 
 ## 📬 Contact Me 📬
-- **Email:** [jjunseok777@gmail.com](mailto:jjunseok777@gmail.com)
+- **Email:** [junseok7@snu.ac.kr](mailto:junseok7@snu.ac.kr)
 - **LinkedIn:** [LinkedIn Profile](#)
 
